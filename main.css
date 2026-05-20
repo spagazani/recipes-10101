@@ -1,17 +1,21 @@
 :root {
-  --bg1: #F5F5F5;
-  --fg1: #1D1D1D;
-  --fg2: #4D4D4D;
+  --clr1: #F2E6D8;
+  --clr2: #593E2E;
+  --clr3: #8C5B3E;
+  --clr4: #decbba;
+  --clr5: #555934;
+  --clr6: #BF9B7A;
 }
 
 *, *::before, *::after {
   margin: 0;
   box-sizing: border-box;
+  scrollbar-gutter: stable;
 }
 
 body {
   overflow-x: hidden;
-  background: var(--bg1);
+  background: var(--clr1);
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -23,7 +27,7 @@ h1 {
   font-size: 1.5rem;
   font-style: normal;
   font-weight: 400;
-  color: var(--fg1);
+  color: var(--clr2);
 }
 
 h2 {
@@ -31,7 +35,7 @@ h2 {
   font-size: 2rem;
   font-style: normal;
   font-weight: 400;
-  color: var(--fg1);
+  color: var(--clr2);
 }
 
 p {
@@ -39,14 +43,14 @@ p {
   font-size: 1.125rem;
   font-style: normal;
   font-weight: 400;  
-  color: var(--fg2);
+  color: var(--clr3);
 }
 
 header {
   width: 100%;
   height: fit-content;
   padding: 1.25rem;
-  box-shadow: 0 0px 11.9px -7px var(--fg1);
+  box-shadow: 0 0px 11.9px -7px var(--clr2);
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
@@ -72,8 +76,20 @@ ul {
 }
 ul.outer li {
   list-style: none;
-  border-top: 4px var(--fg1) solid;
   padding-bottom: 1.125rem;
+  text-decoration: 
+}
+/* HTML: <div class="wavy-line"></div> */
+.wavy-divider {
+  width: 100%;
+  height: 20px; /* Adjust height of the wave container here */
+  
+  /* Your original SVG used as a repeating background image */
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 20"><path d="M0 10 Q 12.5 0, 25 10 T 50 10 T 75 10 T 100 10" fill="none" stroke="%23555934" stroke-width="5" stroke-linecap="round"/></svg>');
+ 
+  /* This shrinks the individual wave size and forces it to repeat horizontally */
+  background-size: 60px 20px; 
+  background-repeat: repeat-x;
 }
 
 ul.inner {
@@ -82,16 +98,17 @@ ul.inner {
 }
 
 ul.inner li {
-    border-top: 2px var(--fg2) solid;
+    border-top: 2px var(--clr3) solid;
     padding-block: 0.8rem;
     padding-bottom: 0.8rem;
 }
 
 ul.inner li:hover {
-    background: #E9E9E9;
-    text-decoration: underline;
+    background: var(--clr4);
 }
-
+ul.inner li:hover *{
+    color: var(--clr5);
+}
 .toggle-heading:hover .icon {
   border: 1px black solid;
   background: white;
@@ -105,12 +122,13 @@ ul.inner li:hover {
 }
 
 .icon {
-  background: var(--fg1);
+  background: var(--clr2);
   width: 1.5rem;
   height: 1.5rem;
   border-radius: 50%;
 }
 header .icon {
+  display: none;
   position: absolute;
   left: 1.3rem;
 }
@@ -120,6 +138,7 @@ header .icon {
   }
 h1.current{
   font-weight: 600;
+  color: var(--clr3)
 }
 @media (max-width: 600px) {
   header { 
@@ -131,6 +150,10 @@ h1.current{
   }
   header.toggled h1.current{
     font-weight: inherit;
+    color: var(--clr2);
+  }
+  header .icon {
+    display: block;
   }
 
 }
