@@ -50,6 +50,8 @@ header {
   display: flex;
   flex-direction: row;
   justify-content: space-evenly;
+  position: relative;
+  align-items: center;
 }
 
 main {
@@ -102,9 +104,33 @@ ul.inner li:hover {
 	justify-content: space-between;
 }
 
-.toggle-heading .icon {
+.icon {
   background: var(--fg1);
   width: 1.5rem;
   height: 1.5rem;
   border-radius: 50%;
+}
+header .icon {
+  position: absolute;
+  left: 1.3rem;
+}
+
+.toggled ul{
+    display: none;
+  }
+h1.current{
+  font-weight: 600;
+}
+@media (max-width: 600px) {
+  header { 
+    flex-direction: column; 
+    align-items: center;
+  } 
+  header.toggled h1:not(.current){
+    display: none;
+  }
+  header.toggled h1.current{
+    font-weight: inherit;
+  }
+
 }
