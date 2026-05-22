@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+        {% include "main.css" %}
+    </style>
+</head>
+<body>
+    <header class='recipe'>
+        <h1 class='arrow'>
+            &lt;-
+        </h1>
+        <h1>
+            {{ title }}
+        </h1>
+    </header>
+    <main>
+        <ul class='outer'>
+            <div class='wavy-divider'></div>
+            <li>
+                <h2>
+                    Ingredients
+                </h2>
+                <ul class='inner recipe'>
+                {% for group in ingredients %}
+                    {% if group.section != "ALL" %}
+                        <li>
+                            <p>
+                                {{ group.section | capitalize }}:
+                            </p>
+                        </li>	        
+                    {% endif %}
+
+                    {% for ingred in group.items %}
+                        <label for="ing_{{ ingred index }}">
+                            <li>
+                                <input type="checkbox" id="ing_{{ ingred index }}">
+                                <p>
+                                    {{ ingred }}
+                                </p>
+                            </li>
+                        </label>
+                    {% endfor %}
+                {% endfor %}
+                </ul>	
+            </li>
+            <div class='wavy-divider'></div>
+            <li>
+                <h2>
+                    Steps
+                </h2>
+                <ol class='inner recipe'>
+                {% for instruction in instructions %}
+                    <li>
+                        <p>
+                            {{ instruction }}
+                        </p>
+                    </li>
+                {% endfor %}
+                </ol>
+            </li>
+        </ul>
+    </main>
+
+    {% include "footer.html" %}
+    <script>
+        {% include "main.js" %}
+    </script>
+</body>
+</html>
+
