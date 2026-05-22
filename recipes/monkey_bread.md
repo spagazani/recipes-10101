@@ -1,0 +1,30 @@
+--- 
+title: "Monkey Bread"
+ingredients:
+  - section: "ALL"
+    items:
+      - "1/4 cup warm water"
+      - "1/4 cup sugar"
+      - "1 pkg dry active yeast"
+      - "2 Tbsp shortening"
+      - "3/4 cup warmed milk"
+      - "1 tsp salt"
+      - "1 large egg"
+      - "3 1/4 cups flour"
+      - "1 stick butter, melted"
+      - "3/4 cup brown sugar"
+      - "2 tsp cinnamon"
+      - "1/2 cup nuts, chopped"
+      - "1/4 cup milk"
+      - "2 cup icing sugar"
+instructions:
+  - "Put the warm water and a pinch of sugar in a small bowl, sprinkle yeast over top. Stir; let the yeast soften and dissolve, about 5 minutes."
+  - "Place the shortening, warm milk, sugar, salt, and egg in a mixer bowl. Grease a bundt pan and a medium bowl."
+  - "Once the yeast is dissolved and foamy, add it to the mixer bowl. Mix well with a dough hook. Slowly add flour, knead by hand for 5 minutes."
+  - "Place in the greased bowl, cover with plastic and set in a warm area to let rise for 20 minutes."
+  - "Meanwhile, make coating. Put melted butter in a bowl. In another bowl, mix sugar, cinnamon, and nuts."
+  - "Sprinkle 2 Tbsp of the nut mixture into the bottom of the bundt pan. Cut dough into 1/2” pieces, roll into balls. Dip balls in butter, then roll in the nut mixture."
+  - "Place in the prepared pan. Cover with plastic wrap and let rise about 1 hour or until doubled in size."
+  - "Preheat oven to 350F, bake 30 to 35 minutes. Let cool for 15 minutes in pan. Turn bread out of pan and cool 20 minutes on rack or plate."
+  - "Make icing by stirring the milk into the icing sugar and then drizzle over the bread."
+---

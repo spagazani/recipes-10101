@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="/main.css">
+</head>
+<body>
+  <header class='toggled'><h1 class='current'>Directory</h1> <h1>Create</h1> <h1>Conversions</h1> <div class='icon' onclick="this.parentElement.classList.toggle('toggled')"></div></header>
+  <main>
+    <ul class='outer'>
+      <div class='wavy-divider'></div>
+      <li>
+        <div class='toggle-heading'>
+          <h2>Sides</h2> <div class='icon' onclick="this.parentElement.parentElement.classList.toggle('toggled')"></div> 
+        </div>
+         <ul class='inner'>
+           <li><p>Pasta Salad</p></li>
+           <li><p>Judy's Taco Dip</p></li>
+         </ul>
+      </li>
+      <div class='wavy-divider'></div>
+      <li>
+        <div class='toggle-heading'>
+          <h2>Mains</h2>
+          <div class='icon' onclick="this.parentElement.parentElement.classList.toggle('toggled')"></div>
+        </div>
+                 <ul class='inner'>
+           <li><p>Pasta Salad</p></li>
+           <li><p>Judy's Taco Dip</p></li>
+         </ul>
+      </li>
+      <div class='wavy-divider'></div>
+      <li>
+        <div class='toggle-heading'>
+          <h2>Desserts</h2>
+          <div class='icon' onclick="this.parentElement.parentElement.classList.toggle('toggled')"></div>
+        </div>
+      </li>
+    </ul>
+  </main>
+  <footer></footer>
+</body>
+</html>
+</html>
