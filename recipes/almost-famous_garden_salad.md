@@ -1,4 +1,5 @@
---- 
+---
+tags: salads
 title: "Almost-Famous Garden Salad"
 ingredients:
   - section: "Dressing"

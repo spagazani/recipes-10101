@@ -1,4 +1,5 @@
 --- 
+tags: frostings
 title: "Seven Minute Kaboom Frosting"
 ingredients:
   - section: "ALL"

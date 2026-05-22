@@ -1,4 +1,5 @@
 --- 
+tags: dips
 title: "Chili's Salsa"
 ingredients:
   - section: "ALL"

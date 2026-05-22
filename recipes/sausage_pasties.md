@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Sausage Pasties"
 ingredients:
   - section: "ALL"

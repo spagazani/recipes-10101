@@ -1,4 +1,5 @@
 --- 
+tags: chicken
 title: "West Indian Chicken Curry"
 ingredients:
   - section: "ALL"

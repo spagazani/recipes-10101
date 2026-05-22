@@ -1,4 +1,5 @@
 --- 
+tags: chicken
 title: "Pizza Chicken"
 ingredients:
   - section: "ALL"

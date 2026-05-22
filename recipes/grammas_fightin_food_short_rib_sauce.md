@@ -1,4 +1,5 @@
 --- 
+tags: "marinades and seasonings"
 title: "Gramma's Fightin' Food Short Rib Sauce"
 ingredients:
   - section: "ALL"

@@ -1,4 +1,5 @@
 --- 
+tags: appetizers
 title: "Carmen Newton's Spring Rolls"
 ingredients:
   - section: "ALL"

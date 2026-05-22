@@ -1,4 +1,5 @@
 --- 
+tags: frostings
 title: "Royal Icing"
 ingredients:
   - section: "ALL"

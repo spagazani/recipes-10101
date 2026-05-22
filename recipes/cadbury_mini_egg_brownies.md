@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Cadbury Mini Egg Brownies"
 ingredients:
   - section: "ALL"

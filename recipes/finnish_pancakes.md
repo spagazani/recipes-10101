@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Finnish Pancakes"
 ingredients:
   - section: "ALL"

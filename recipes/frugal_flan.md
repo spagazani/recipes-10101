@@ -1,4 +1,5 @@
 --- 
+tags: mains
 title: "Frugal Flan"
 ingredients:
   - section: "ALL"

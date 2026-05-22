@@ -1,4 +1,5 @@
 ---
+tags: unclassified
 title: "Chocolate Éclair Cake"
 ingredients:
   - section: "Crust"

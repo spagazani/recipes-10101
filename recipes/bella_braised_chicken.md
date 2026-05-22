@@ -1,4 +1,5 @@
 --- 
+tags: chicken
 title: "Bella Braised Chicken"
 ingredients:
   - section: "ALL"

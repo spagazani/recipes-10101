@@ -1,4 +1,5 @@
 --- 
+tags: pastries
 title: "Auntie Trish's Fabulous Scones"
 ingredients:
   - section: "ALL"

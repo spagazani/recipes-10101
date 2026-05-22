@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "S'More Brownies"
 ingredients:
   - section: "Crust"

@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Our Favourite Chewy Oatmeal Cookies"
 ingredients:
   - section: "ALL"

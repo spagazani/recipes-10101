@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Chocolate Chip And M&M Cookie Dough Bars"
 ingredients:
   - section: "ALL"

@@ -1,4 +1,5 @@
 --- 
+tags: salads
 title: "Mommy's Tuna And Macaroni Salad"
 ingredients:
   - section: "ALL"

@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Whipped Cream"
 ingredients:
   - section: "ALL"

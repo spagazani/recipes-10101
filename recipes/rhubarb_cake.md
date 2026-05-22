@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Rhubarb Cake"
 ingredients:
   - section: "ALL"

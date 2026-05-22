@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "French Quarter Beignets"
 ingredients:
   - section: "ALL"

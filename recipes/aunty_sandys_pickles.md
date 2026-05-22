@@ -1,4 +1,5 @@
 --- 
+tags: canning
 title: "Aunty Sandy's Pickles"
 ingredients:
   - section: "ALL"

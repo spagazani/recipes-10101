@@ -1,4 +1,5 @@
 --- 
+tags: beef
 title: "Salisbury Steak"
 ingredients:
   - section: "ALL"

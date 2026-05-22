@@ -1,4 +1,5 @@
 --- 
+tags: cookies
 title: "C.W.D.'s Peanut Butter Cookies"
 ingredients:
   - section: "ALL"

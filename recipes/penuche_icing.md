@@ -1,4 +1,5 @@
 --- 
+tags: frostings
 title: "Penuche Icing"
 ingredients:
   - section: "ALL"

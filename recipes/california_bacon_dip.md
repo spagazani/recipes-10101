@@ -1,4 +1,5 @@
 --- 
+tags: dips
 title: "California Bacon Dip"
 ingredients:
   - section: "ALL"

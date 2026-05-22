@@ -1,4 +1,5 @@
 --- 
+tags: salads
 title: "Mostaccioli Pizza Salad"
 ingredients:
   - section: "ALL"

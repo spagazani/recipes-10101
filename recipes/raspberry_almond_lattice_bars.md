@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Raspberry Almond Lattice Bars"
 ingredients:
   - section: "ALL"

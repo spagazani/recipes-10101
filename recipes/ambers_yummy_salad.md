@@ -1,4 +1,5 @@
---- 
+---
+tags: salads
 title: "Amber's Yummy Salad"
 ingredients:
   - section: "ALL"

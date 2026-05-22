@@ -1,4 +1,5 @@
 --- 
+tags: appetizers
 title: "Bacon Potato Puff Bites"
 ingredients:
   - section: "ALL"

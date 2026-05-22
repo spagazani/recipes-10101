@@ -1,4 +1,5 @@
 --- 
+tags: cookies
 title: "Avalanche Cookies"
 ingredients:
   - section: "ALL"

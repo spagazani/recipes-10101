@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Cinnabon Cinnamon Buns"
 ingredients:
   - section: "ALL"

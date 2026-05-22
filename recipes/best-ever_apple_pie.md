@@ -1,4 +1,5 @@
 --- 
+tags: pastries
 title: "Best-Ever Apple Pie"
 ingredients:
   - section: "Filling"

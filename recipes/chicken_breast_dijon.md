@@ -1,4 +1,5 @@
 --- 
+tags: chicken
 title: "Chicken Breast Dijon"
 ingredients:
   - section: "ALL"

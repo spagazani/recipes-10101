@@ -1,4 +1,5 @@
---- 
+---
+tags: canning 
 title: "Bread And Butter Pickles"
 ingredients:
   - section: "ALL"

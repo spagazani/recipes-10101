@@ -1,4 +1,5 @@
 --- 
+tags: sweet sauces
 title: "Butter Sauce"
 ingredients:
   - section: "ALL"

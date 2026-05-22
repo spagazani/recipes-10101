@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Chip'N Nut Caramel Brownies"
 ingredients:
   - section: "Batter"

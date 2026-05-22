@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Rocky Road Candy"
 ingredients:
   - section: "ALL"

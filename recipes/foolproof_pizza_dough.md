@@ -1,5 +1,6 @@
 --- 
-title: "Foolproof Pizza Dough – 1620 Special"
+tags: unclassified
+title: "Foolproof Pizza Dough"
 ingredients:
   - section: "ALL"
     items:

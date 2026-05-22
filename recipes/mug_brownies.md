@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Mug Brownies"
 ingredients:
   - section: "ALL"

@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Leigh Family Secret Bark Recipe"
 ingredients:
   - section: "ALL"

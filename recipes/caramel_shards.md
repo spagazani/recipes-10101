@@ -1,4 +1,5 @@
 --- 
+tags: desserts
 title: "Caramel Shards"
 ingredients:
   - section: "ALL"

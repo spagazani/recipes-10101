@@ -1,4 +1,5 @@
 --- 
+tags: salads
 title: "Garbanzo Salad"
 ingredients:
   - section: "ALL"

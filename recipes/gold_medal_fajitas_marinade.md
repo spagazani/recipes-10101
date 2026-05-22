@@ -1,5 +1,6 @@
 --- 
-title: "Gold Medal Fajitas Marinade"
+tags: chicken
+title: "Gold Medal Fajitas"
 ingredients:
   - section: "ALL"
     items:

@@ -1,4 +1,5 @@
 --- 
+tags: salads
 title: "Mom's Potato Salad"
 ingredients:
   - section: "ALL"

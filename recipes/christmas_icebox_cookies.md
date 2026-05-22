@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Christmas Icebox Cookies"
 ingredients:
   - section: "ALL"

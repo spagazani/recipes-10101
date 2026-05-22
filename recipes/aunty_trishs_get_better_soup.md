@@ -1,4 +1,5 @@
 --- 
+tags: soups
 title: "Aunty Trish's Get Better Soup"
 ingredients:
   - section: "ALL"

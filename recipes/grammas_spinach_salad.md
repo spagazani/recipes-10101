@@ -1,4 +1,5 @@
 --- 
+tags: salads
 title: "Gramma's Spinach Salad"
 ingredients:
   - section: "ALL"

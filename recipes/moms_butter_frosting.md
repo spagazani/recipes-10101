@@ -1,4 +1,5 @@
 --- 
+tags: frostings
 title: "Mom's Butter Frosting"
 ingredients:
   - section: "ALL"

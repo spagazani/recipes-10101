@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Reese Peanut Butter Bars"
 ingredients:
   - section: "ALL"

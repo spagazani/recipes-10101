@@ -28,6 +28,7 @@ h1 {
   font-style: normal;
   font-weight: 400;
   color: var(--clr2);
+  text-transform: capitalize;
 }
 
 h2 {
@@ -36,6 +37,7 @@ h2 {
   font-style: normal;
   font-weight: 400;
   color: var(--clr2);
+  text-transform: capitalize;
 }
 
 p {

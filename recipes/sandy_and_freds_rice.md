@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Sandy And Fred's Rice"
 ingredients:
   - section: "ALL"

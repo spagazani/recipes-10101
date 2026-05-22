@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Suzette's Gingerbread Cookies"
 ingredients:
   - section: "ALL"

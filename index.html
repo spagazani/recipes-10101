@@ -2,7 +2,36 @@
 layout: base.html
 title: index
 ---
-huh
-{% for tag in collections.meta.tags %}
-    <h3>{{ tag }}</h3>
+<div class='search-bar'>
+    <i class="fa fa-search"></i>
+        <input type="text" placeholder="Search…" aria-label="Search through site content" />
+</div>
+<ul class='outer'>
+{% assign taglist = collections %}
+{% for tag in taglist %}
+    {% if tag[0] != 'all' %}
+    <div class='wavy-divider'></div>
+    <li>
+        <div class='toggle-heading open'>
+            <h2>
+                {{ tag[0] | capitalize }}
+            </h2>
+            <div class='icon'>
+                <i class="fa fa-angle-down"></i>
+            </div>
+        </div>
+        <ul class='inner'>
+        {% for recipe in collections[tag[0]] %}
+            <li>
+                <p>
+                    <a href="{{ recipe.url}}">
+                        {{ recipe.data.title }}
+                    </a>
+                </p>
+            </li>
+        {% endfor %}
+        </ul>
+    </li>
+    {% endif %}
 {% endfor %}
+</ul>

@@ -1,4 +1,5 @@
 --- 
+tags: "marinades and seasonings"
 title: "Judy's Marinade"
 ingredients:
   - section: "ALL"

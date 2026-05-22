@@ -1,4 +1,5 @@
 --- 
+tags: mains
 title: "Four Way Cincinnati Chili"
 ingredients:
   - section: "ALL"

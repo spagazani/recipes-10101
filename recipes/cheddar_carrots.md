@@ -1,4 +1,5 @@
 --- 
+tags: sides
 title: "Cheddar Carrots"
 ingredients:
   - section: "ALL"

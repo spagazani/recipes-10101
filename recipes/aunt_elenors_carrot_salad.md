@@ -1,4 +1,5 @@
 --- 
+tags: salads
 title: "Aunt Elenor's Carrot Salad"
 ingredients:
   - section: "ALL"

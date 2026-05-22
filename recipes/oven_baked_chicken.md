@@ -1,4 +1,5 @@
 --- 
+tags: chicken
 title: "Oven Baked Chicken"
 ingredients:
   - section: "ALL"

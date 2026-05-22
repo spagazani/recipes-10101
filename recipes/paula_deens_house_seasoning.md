@@ -1,4 +1,5 @@
 --- 
+tags: "marinades and seasonings"
 title: "Paula Deen's House Seasoning"
 ingredients:
   - section: "ALL"

@@ -1,4 +1,5 @@
 --- 
+tags: desserts
 title: "Butterscotch Pumpkin Mousse"
 ingredients:
   - section: "ALL"

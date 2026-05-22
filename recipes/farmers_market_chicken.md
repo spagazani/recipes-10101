@@ -1,4 +1,5 @@
 --- 
+tags: chicken
 title: "Farmer's Market Chicken"
 ingredients:
   - section: "ALL"

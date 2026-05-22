@@ -1,4 +1,5 @@
 --- 
+tags: cakes
 title: "Beatty's Chocolate Cake"
 ingredients:
   - section: "ALL"

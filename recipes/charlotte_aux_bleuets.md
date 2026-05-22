@@ -1,4 +1,5 @@
 --- 
+tags: desserts
 title: "Charlotte Aux Bleuets"
 ingredients:
   - section: "ALL"

@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Chocolate Chip Bars"
 ingredients:
   - section: "ALL"

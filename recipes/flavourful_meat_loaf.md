@@ -1,4 +1,5 @@
 --- 
+tags: beef
 title: "Flavourful Meat Loaf"
 ingredients:
   - section: "ALL"

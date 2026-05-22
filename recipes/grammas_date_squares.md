@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Gramma's Date Squares"
 ingredients:
   - section: "ALL"

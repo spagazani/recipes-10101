@@ -1,4 +1,5 @@
 --- 
+tags: dips
 title: "Judy's Taco Dip"
 ingredients:
   - section: "ALL"

@@ -1,4 +1,5 @@
 --- 
+tags: beef
 title: "Slow Cooked Sirloin"
 ingredients:
   - section: "ALL"

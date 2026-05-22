@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Eggnog Spritz"
 ingredients:
   - section: "ALL"

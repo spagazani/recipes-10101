@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Mom's Pancakes"
 ingredients:
   - section: "ALL"

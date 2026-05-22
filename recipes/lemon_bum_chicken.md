@@ -1,4 +1,5 @@
 --- 
+tags: chicken
 title: "Lemon Bum Chicken"
 ingredients:
   - section: "ALL"

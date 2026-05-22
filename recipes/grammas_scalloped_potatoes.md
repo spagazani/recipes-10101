@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Gramma's Scalloped Potatoes"
 ingredients:
   - section: "ALL"

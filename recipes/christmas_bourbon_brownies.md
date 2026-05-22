@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Christmas Bourbon Brownies"
 ingredients:
   - section: "ALL"

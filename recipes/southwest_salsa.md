@@ -1,4 +1,5 @@
 --- 
+tags: dips
 title: "Southwest Salsa"
 ingredients:
   - section: "ALL"

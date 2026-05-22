@@ -1,4 +1,5 @@
 --- 
+tags: beef
 title: "Best Hamburgers"
 ingredients:
   - section: "ALL"

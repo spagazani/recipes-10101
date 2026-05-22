@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Rice Krispie Squares"
 ingredients:
   - section: "ALL"

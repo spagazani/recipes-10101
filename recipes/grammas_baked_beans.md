@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Gramma's Baked Beans"
 ingredients:
   - section: "ALL"

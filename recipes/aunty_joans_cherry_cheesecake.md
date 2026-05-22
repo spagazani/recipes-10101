@@ -1,4 +1,5 @@
 --- 
+tags: layered desserts
 title: "Aunty Joan's Cherry Cheesecake"
 ingredients:
   - section: "ALL"

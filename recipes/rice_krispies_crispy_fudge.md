@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Rice Krispies Crispy Fudge"
 ingredients:
   - section: "ALL"

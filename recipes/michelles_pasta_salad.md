@@ -1,4 +1,5 @@
 --- 
+tags: salads
 title: "Michelle's Pasta Salad"
 ingredients:
   - section: "ALL"

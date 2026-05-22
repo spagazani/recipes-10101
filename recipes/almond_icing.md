@@ -1,4 +1,5 @@
 --- 
+tags: frostings
 title: "Almond Icing"
 ingredients:
   - section: "ALL"

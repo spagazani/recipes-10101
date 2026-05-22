@@ -1,4 +1,5 @@
 --- 
+tags: chicken
 title: "Greek Seasoned Chicken With Orzo"
 ingredients:
   - section: "ALL"

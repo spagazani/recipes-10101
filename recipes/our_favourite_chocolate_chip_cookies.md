@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Our Favourite Chocolate Chip Cookies"
 ingredients:
   - section: "ALL"

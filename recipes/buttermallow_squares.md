@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Buttermallow Squares"
 ingredients:
   - section: "ALL"

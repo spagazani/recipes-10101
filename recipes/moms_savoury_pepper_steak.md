@@ -1,4 +1,5 @@
 --- 
+tags: beef
 title: "Mom's Savoury Pepper Steak"
 ingredients:
   - section: "ALL"

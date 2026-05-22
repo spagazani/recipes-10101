@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Macedonian Bean Dish"
 ingredients:
   - section: "ALL"

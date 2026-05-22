@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Favourite Strawberry Jam"
 ingredients:
   - section: "ALL"

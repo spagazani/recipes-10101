@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Jamie's Blueberry Muffins"
 ingredients:
   - section: "ALL"

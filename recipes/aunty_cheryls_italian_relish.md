@@ -1,4 +1,5 @@
 --- 
+tags: mains
 title: "Aunty Cheryl's Italian Relish"
 ingredients:
   - section: "ALL"

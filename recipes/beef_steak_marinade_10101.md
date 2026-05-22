@@ -1,4 +1,5 @@
 --- 
+tags: "marinades and seasonings"
 title: "Beef Steak Marinade 10101"
 ingredients:
   - section: "ALL"

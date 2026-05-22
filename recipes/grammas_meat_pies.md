@@ -1,4 +1,5 @@
 --- 
+tags: beef
 title: "Gramma's Meat Pies"
 ingredients:
   - section: "ALL"

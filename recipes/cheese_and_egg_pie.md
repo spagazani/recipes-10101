@@ -1,4 +1,5 @@
 --- 
+tags: mains
 title: "Cheese And Egg Pie"
 ingredients:
   - section: "ALL"

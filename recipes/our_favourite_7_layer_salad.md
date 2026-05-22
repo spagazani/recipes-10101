@@ -1,4 +1,5 @@
 --- 
+tags: salads
 title: "Our Favourite 7 Layer Salad"
 ingredients:
   - section: "ALL"

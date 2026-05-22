@@ -1,4 +1,5 @@
 --- 
+tags: dips
 title: "Spinach Dip"
 ingredients:
   - section: "ALL"

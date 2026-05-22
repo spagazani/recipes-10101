@@ -1,4 +1,5 @@
 --- 
+tags: frostings
 title: "Chocolate Delaware Frosting"
 ingredients:
   - section: "ALL"

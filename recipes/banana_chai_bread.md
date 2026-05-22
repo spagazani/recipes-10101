@@ -1,4 +1,5 @@
 --- 
+tags: quick breads
 title: "Banana Chai Bread"
 ingredients:
   - section: "ALL"

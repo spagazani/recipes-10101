@@ -1,4 +1,5 @@
 --- 
+tags: quick breads
 title: "Chewy Mall Pretzels"
 ingredients:
   - section: "ALL"

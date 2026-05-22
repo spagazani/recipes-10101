@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Grasshopper Parfaits"
 ingredients:
   - section: "ALL"

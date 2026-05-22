@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Haystack Crunchies"
 ingredients:
   - section: "ALL"

@@ -1,5 +1,6 @@
---- 
-title: "Blt Pasta Salad"
+---
+tags: salads
+title: "BLT Pasta Salad"
 ingredients:
   - section: "ALL"
     items:

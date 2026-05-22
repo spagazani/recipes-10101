@@ -1,4 +1,5 @@
 --- 
+tags: sides
 title: "Baked Potato Wedges"
 ingredients:
   - section: "ALL"

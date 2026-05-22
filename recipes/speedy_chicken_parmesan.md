@@ -1,4 +1,5 @@
 --- 
+tags: chicken
 title: "Speedy Chicken Parmesan"
 ingredients:
   - section: "ALL"

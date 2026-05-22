@@ -1,4 +1,5 @@
 --- 
+tags: unclassified
 title: "Sinful Hot Chocolate"
 ingredients:
   - section: "ALL"

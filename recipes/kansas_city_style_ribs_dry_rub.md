@@ -1,4 +1,5 @@
 --- 
+tags: "marinades and seasonings"
 title: "Kansas City Style Ribs Dry Rub"
 ingredients:
   - section: "ALL"

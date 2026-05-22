@@ -1,4 +1,5 @@
 --- 
+tags: brownies and bars
 title: "Kathy Malone's Tuxedo Cookie Bars"
 ingredients:
   - section: "ALL"
