@@ -25,7 +25,7 @@ email: sophia.n.pagazani@gmail.com
 #   line in _config.yml. It will appear in your document head meta (for
 #   Google search results) and in your feed.xml site description.
 baseurl:  /recipes-10101/docs/
-url: "https://spagazani.github.io/recipes-10101/"
+url: "https://spagazani.github.io/recipes-10101/docs/"
 # twitter_username: jekyllrb
 # github_username:  jekyll
 
